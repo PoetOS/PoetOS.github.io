@@ -16,7 +16,6 @@ Thanks to Gemma Lesterhuis and Euroforum B.V. – Eindhoven (The Netherlands)
 for their support, resources and efforts to develop the enhanced notification
 feature.
 
-Details can be found in the [release notes]
-(https://moodle.org/plugins/pluginversion.php?id=15933).
+Details can be found in the [release notes](https://moodle.org/plugins/pluginversion.php?id=15933).
 
 Additionally, releases 3.3.3, 3.2.6 and 3.1.8 have been made available.

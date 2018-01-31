@@ -17,5 +17,4 @@ question responses.
 2. Multiple feedback scoring. Questions can now be assigned to more than one
 feedback section for personality test scoring.
 
-Details can be found in the [release notes]
-(https://moodle.org/plugins/pluginversion.php?id=15624).
+Details can be found in the [release notes](https://moodle.org/plugins/pluginversion.php?id=15624).
