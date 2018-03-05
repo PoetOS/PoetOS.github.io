@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Road Ahead
+title: Looking at Moodle's new plugin development API’s
 ---
 
 Looking at David Mudrack’s “ToDo List” concept block, Moodle persistents, Moodle exporters and “Ajaxy” development techniques in a
